@@ -7,7 +7,6 @@ import './index.css';
 
 const rootEl = document.getElementById('root');
 
-
 ReactDOM.render(
   <Root history={hashHistory}/>,
   rootEl

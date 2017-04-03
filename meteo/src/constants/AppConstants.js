@@ -1,3 +1,6 @@
-/**
- * Created by askrypai on 3/31/17.
- */
+import keyMirror from 'keymirror';
+
+export default keyMirror({
+    USER_AUTHORIZE: null
+
+})

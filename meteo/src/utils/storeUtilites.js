@@ -1,6 +1,6 @@
-import { each, isFunction } from 'underscore';
-import { EventEmitter } from 'events';
-import shallowEqual from 'react-pure-render/shallowEqual';
+import {each, isFunction} from 'underscore';
+import {EventEmitter} from 'events';
+import {shallowEqual} from 'react-pure-render/shallowEqual';
 
 const CHANGE_EVENT = 'change';
 
